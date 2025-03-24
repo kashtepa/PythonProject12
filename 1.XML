@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<message name="doRegisterRequest">
+   <email>1@pfur.ru</email>
+   <name>Имя</name>
+   <!-- одиночный тег -->
+   <password/>
+   <tag atribut="Значение атрибута"/>
+</message>

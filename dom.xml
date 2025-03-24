@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+    <book>
+        <title lang = "ru">Остров сокровищ</title>
+        <title lang = "en">Treasure Island</title>
+        <author>Стивенсон Р. Л.</author>
+    </book>
+    <book>
+        <title lang = "ru">Таинственный остров</title>
+        <title lang = "fr">L'Île mystérieuse</title>
+        <author>Жюль Верн</author>
+    </book>
+</books>
+
